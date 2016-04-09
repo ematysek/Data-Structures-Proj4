@@ -1,0 +1,43 @@
+Incorrect: loved
+Incorrect: baking
+Incorrect: gingerbread
+Incorrect: gingerbread
+Incorrect: gingerbread
+Incorrect: decorated
+Incorrect: candies
+Incorrect: colored
+Incorrect: lived
+Incorrect: gingerbread
+Incorrect: skipping
+Incorrect: running
+Incorrect: Unfortunately
+Incorrect: gobbled
+Incorrect: making
+Incorrect: batches
+Incorrect: gingerbread
+Incorrect: having
+Incorrect: gingerbread
+Incorrect: disappear
+Incorrect: gingerbread
+Incorrect: "Those
+Incorrect: gingerbread
+Incorrect: treats."
+Incorrect: gingerbread
+Incorrect: Unfortunately
+Incorrect: gingerbread
+Incorrect: decorated
+Incorrect: gingerbread
+Incorrect: having
+Incorrect: colors
+Incorrect: gingerbread
+Incorrect: color
+Incorrect: "It
+Incorrect: matter
+Incorrect: small,"
+Incorrect: "He'll
+Incorrect: tasty."
+num of words in dictionary: 25144
+num of words in input: 238
+num of words misspelled: 38
+num of probes: 290
+avg probes per word: 1.218487394957983
